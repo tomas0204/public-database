@@ -1,4 +1,42 @@
 {
+  "creations": [
+    {
+      "id": 3,
+      "title": "AdepasdasdtusStudio",
+      "color": "red",
+      "url": "https://www.craiyon.com/?prompt=Create%20a%2032x32%20pixel%20art%20of%20Anime&model=art&negativePrompt=",
+      "type": "test",
+      "subtype": "test",
+      "img": "https://cdn.discordapp.com/attachments/1048392317008085094/1179973952072855695/image.png?ex=6584f5e1&is=657280e1&hm=bb8e3976663a7c5e6ed9e643502e1ea701f1be0b2b46abe6a6b43a04fb5124d8",
+      "author": "StemVirus",
+      "desc": "TEST",
+      "date": "2023-12-07"
+    },
+    {
+      "id": 2,
+      "title": "AdeptusStudio",
+      "color": "red",
+      "url": "https://www.craiyon.com/?prompt=Create%20a%2032x32%20pixel%20art%20of%20Anime&model=art&negativePrompt=",
+      "type": "test",
+      "subtype": "test",
+      "img": "https://cdn.discordapp.com/attachments/1048392317008085094/1179973952072855695/image.png?ex=6584f5e1&is=657280e1&hm=bb8e3976663a7c5e6ed9e643502e1ea701f1be0b2b46abe6a6b43a04fb5124d8",
+      "author": "StemVirus",
+      "desc": "TEST",
+      "date": "2023-12-07"
+    },
+    {
+      "id": 1,
+      "title": "AdeptusStudio",
+      "color": "red",
+      "url": "https://www.craiyon.com/?prompt=Create%20a%2032x32%20pixel%20art%20of%20Anime&model=art&negativePrompt=",
+      "type": "test",
+      "subtype": "test",
+      "img": "https://cdn.discordapp.com/attachments/1048392317008085094/1179973952072855695/image.png?ex=6584f5e1&is=657280e1&hm=bb8e3976663a7c5e6ed9e643502e1ea701f1be0b2b46abe6a6b43a04fb5124d8",
+      "author": "StemVirus",
+      "desc": "TEST",
+      "date": "2023-12-07"
+    }
+  ],
   "blogs": [
     {
       "id": 3,
