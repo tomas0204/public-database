@@ -39,37 +39,15 @@
   ],
   "blogs": [
     {
-      "id": 3,
-      "title": "AdepasdasdtusStudio",
-      "color": "red",
-      "type": "test",
-      "subtype": "test",
-      "img": "https://cdn.discordapp.com/attachments/1048392317008085094/1179973952072855695/image.png?ex=6584f5e1&is=657280e1&hm=bb8e3976663a7c5e6ed9e643502e1ea701f1be0b2b46abe6a6b43a04fb5124d8",
-      "author": "StemVirus",
-      "desc": "TEST",
-      "date": "2023-12-07"
-    },
-    {
-      "id": 2,
-      "title": "AdeptusStudio",
-      "color": "red",
-      "type": "test",
-      "subtype": "test",
-      "img": "https://cdn.discordapp.com/attachments/1048392317008085094/1179973952072855695/image.png?ex=6584f5e1&is=657280e1&hm=bb8e3976663a7c5e6ed9e643502e1ea701f1be0b2b46abe6a6b43a04fb5124d8",
-      "author": "StemVirus",
-      "desc": "TEST",
-      "date": "2023-12-07"
-    },
-    {
       "id": 1,
       "title": "AdeptusStudio",
-      "color": "red",
-      "type": "test",
-      "subtype": "test",
-      "img": "https://cdn.discordapp.com/attachments/1048392317008085094/1179973952072855695/image.png?ex=6584f5e1&is=657280e1&hm=bb8e3976663a7c5e6ed9e643502e1ea701f1be0b2b46abe6a6b43a04fb5124d8",
-      "author": "StemVirus",
-      "desc": "TEST",
-      "date": "2023-12-07"
+      "color": "gold",
+      "type": "A New Start",
+      "subtype": "Team Photo 💖",
+      "img": "https://github.com/AdeptusStudio/public-database/blob/img/studio/photos/group_final_2023.png?raw=true",
+      "author": "AdeptusTeam",
+      "desc": "Adeptus Team evolves into Adeptus Studio, embracing cultural diversity within our work teams. We face challenges in seeking partners and new members, but we remain a close-knit family. I write to you from the future; in a year, we will see how this transformation unfolds.",
+      "date": "December 11, 2023"
     }
   ],
   "projects": [
